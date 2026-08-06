@@ -1,6 +1,6 @@
 ![Hieee](https://img.shields.io/badge/👋%20Hieee-I'm%20Jay!-orange)
 
-<h1 align="center">Hieee 👋, I'm Jay!</h1>
+<!-- <h1 align="center">Hieee 👋, I'm Jay!</h1> -->
 <h3 align="center">🚀  DSA MASTERY | Backend Developer</h3>
 
 <p align="center">
