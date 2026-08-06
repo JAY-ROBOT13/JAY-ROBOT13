@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAY-ROBOT13&show_icons=true&theme=tokyonight)
-
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JAY-ROBOT13&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-ROBOT13&layout=compact&theme=tokyonight" height="170"/>
-</p> -->
-
----
 
 ## 🔥 GitHub Streak
 
@@ -43,13 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JAY-ROBOT13&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
