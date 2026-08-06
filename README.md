@@ -1,1 +1,1 @@
-![Hieee](https://img.shields.io/badge/👋%20HELLO-I'M%20Jay!-brightgreen)
+![Hieee](https://img.shields.io/badge/👋%20Hieee-I'M%20Jay!-organge)
