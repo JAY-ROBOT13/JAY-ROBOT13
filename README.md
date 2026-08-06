@@ -26,11 +26,12 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAY-ROBOT13&show_icons=true&theme=tokyonight)
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JAY-ROBOT13&show_icons=true&theme=tokyonight" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAY-ROBOT13&layout=compact&theme=tokyonight" height="170"/>
-</p>
+</p> -->
 
 ---
 
