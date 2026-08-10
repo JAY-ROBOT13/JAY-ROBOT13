@@ -4,7 +4,7 @@
 <h3 align="center">🚀  DSA MASTERY | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Competitive+Programmer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Account!;Competitive+Programmer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
